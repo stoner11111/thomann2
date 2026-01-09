@@ -1,4 +1,4 @@
-"posts": [
+{"posts": [
         {
             "id": 1,
             "fabricante": "Fender",
@@ -48,3 +48,4 @@
             "stock": 20
         }
 ]
+}
