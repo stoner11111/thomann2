@@ -1,0 +1,50 @@
+"posts": [
+        {
+            "id": 1,
+            "fabricante": "Fender",
+            "modelo": "TB-70 SBK Deluxe Series",
+            "caracteristica1": "Construcción del mástil: Encolada (set-neck)",
+            "caracteristica2": "Cuerpo de ocume",
+            "caracteristica3": "Mástil de nato en forma de D",
+            "imagen": "https://i.ibb.co/sp3c7gqy/264956.webp",
+            "numeroLikes": 5,
+            "pvp": 199,
+            "stock": 3
+        },
+        {
+            "id": 2,
+            "fabricante": "Harley Benton",
+            "modelo": "MV-4MSB Gotoh SFG",
+            "caracteristica1": "Deluxe Series",
+            "caracteristica2": "Clavijero a juego",
+            "caracteristica3": "Cuerpo de aliso",
+            "imagen": "https://i.ibb.co/23V32p9H/491459.webp",
+            "numeroLikes": 2,
+            "pvp": 229,
+            "stock": 0
+        },
+        {
+            "id": 3,
+            "fabricante": "Gibson",
+            "modelo": "HBZ-2004 Deluxe Series",
+            "caracteristica1": "Cuerpo de ovangkol",
+            "caracteristica2": "Mástil a través del cuerpo (neck thru)",
+            "caracteristica3": "Mástil de 7 piezas de caoba/arce/nato",
+            "imagen": "https://i.ibb.co/twR1MttC/531035.webp",
+            "numeroLikes": 4,
+            "pvp": 300,
+            "stock": 6
+        },
+        {
+            "id": 4,
+            "fabricante": "Harley Benton",
+            "modelo": "PB-20 SBK Standard Series",
+            "caracteristica1": "Completamente en negro",
+            "caracteristica2": "Construcción atornillada (bolt-on)",
+            "caracteristica3": "Diapasón de Laurel",
+            "imagen": "",
+            "numeroLikes": 2,
+            "pvp": 129,
+            "stock": 20
+        }
+]
